@@ -21,5 +21,7 @@ The contact page includes a contact form for visitors to reach out with inquirie
 Technologies Used-
 
 HTML: For structuring the content of the website.
+
 CSS: For styling the website and ensuring a responsive design.
+
 JavaScript: For adding interactivity and enhancing user experience.
