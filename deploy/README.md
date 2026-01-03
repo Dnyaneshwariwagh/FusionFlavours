@@ -54,3 +54,6 @@ AWS EC2 Ubuntu instance using Nginx.
 
 8. Access the website:
    http://<EC2-PUBLIC-IP>
+
+   Your Website is deployed !
+   
