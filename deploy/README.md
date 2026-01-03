@@ -56,5 +56,5 @@ AWS EC2 Ubuntu instance using Nginx.
    
    `http://<EC2-PUBLIC-IP>`
 
-   Your Website is deployed !
+   Your website is deployed !
    
